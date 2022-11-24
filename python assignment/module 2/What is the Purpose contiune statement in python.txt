@@ -1,0 +1,14 @@
+What is the Purpose contiune statement in python?
+
+=>
+The contiune keyword is used to end the current itration in a for loop (or a while loop), and cintiune to the 
+next iteration.
+
+example:-
+
+i=0
+while i<9 :
+  i+ =1
+  if i==3:
+    contiune
+ print (i)
