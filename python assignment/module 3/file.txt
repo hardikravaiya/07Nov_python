@@ -1,0 +1,3 @@
+'hello everyone
+this is python basic programing course
+and very easy this program'
