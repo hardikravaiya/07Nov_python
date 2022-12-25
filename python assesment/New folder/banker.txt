@@ -1,0 +1,2 @@
+{'Acc_no': 12345678, 'customer name ': 'tejash', 'Open Balance ': 100.0, 'Opening Date': '2022-12-25 17:38:21.223656'}
+{'Acc_no': 987654321, 'customer name ': 'hardik', 'Open Balance ': 200.0, 'Opening Date': '2022-12-25 17:54:22.374422'}
